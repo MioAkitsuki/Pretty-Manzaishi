@@ -33,8 +33,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BurnAmount: 1.0002068
-    - _LineWidth: 0.069
+    - _BurnAmount: 0
+    - _LineWidth: 0.075
     m_Colors:
     - _BurnFirstColor: {r: 0.86842906, g: 0.9029649, b: 0.11560869, a: 1}
     - _BurnSecondColor: {r: 0.9514825, g: 0.84108233, b: 0.40393117, a: 1}
